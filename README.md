@@ -1,1 +1,1 @@
-# kanna-MNIST
+# kannada-MNIST
